@@ -1,0 +1,6 @@
+{
+  "name": "Wheel Spinner",
+  "description": "A fast, modern, and customizable wheel spinner decision maker tool with themes, fair random selection, and instant sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
